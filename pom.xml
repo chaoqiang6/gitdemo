@@ -8,5 +8,7 @@
     <artifactId>git-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <!--这也是一个注释-->
+
 
 </project>
