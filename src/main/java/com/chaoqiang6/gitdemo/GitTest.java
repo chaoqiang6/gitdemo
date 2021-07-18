@@ -6,4 +6,8 @@ public class GitTest {
         System.out.println("hello git2");
         System.out.println("hello git3");
     }
+
+    public void func(){
+        System.out.println("this is func1");
+    }
 }
