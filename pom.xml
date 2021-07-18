@@ -7,6 +7,8 @@
     <groupId>com.chaoqiang6</groupId>
     <artifactId>git-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
+         
+         <!--简简单单加个注释-->
 
 
 </project>
