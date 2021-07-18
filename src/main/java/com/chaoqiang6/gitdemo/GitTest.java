@@ -19,4 +19,8 @@ public class GitTest {
     public void func4(){
         System.out.println("this is func4");
     }
+
+    public void func5(){
+        System.out.println("this is func5");
+    }
 }
